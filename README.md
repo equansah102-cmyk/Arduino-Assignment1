@@ -1,4 +1,4 @@
-# Arduino Assignment 1 — Smart Countdown
+dg  # Arduino Assignment 1 — Smart Countdown
  
 This is my submission for Assignment 1 in the
 Programming C++ for Engineers Using Arduino course
